@@ -66,7 +66,6 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-
 | S. No | Fiber Length (m) | Optical Power (Watts) | Optical Power (dBm) | Max Q-factor | Min BER | Eye Height     | Decision Instant at Max Q / Min BER |
 | ----- | ---------------- | --------------------- | ------------------- | ------------ | ------- | -------------- | ----------------------------------- |
 | 1     | 56               | 36.746                | 14.34               | 100.121      | 0       | 7.86875 × 10⁻⁵ | 0.546875 / 0                        |
